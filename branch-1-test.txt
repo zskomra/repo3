@@ -1,1 +1,1 @@
-Dodanie Funkcji branch-1-test
+Dodanie Funkcji branch-1-test Edycja z branch-conflict
